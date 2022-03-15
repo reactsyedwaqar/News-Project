@@ -1,7 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## DEMO URL
-Open [http://testdeploy5.s3-website.ap-south-1.amazonaws.com] to view it live
 
 ## Available Scripts
 
