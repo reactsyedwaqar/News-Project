@@ -1,0 +1,107 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="table-responsive-md"
+    >
+      <table
+        cellPadding={5}
+        cellSpacing={5}
+        className="table table-striped table-hover"
+      >
+        <thead>
+          <tr
+            style={
+              Object {
+                "alignItems": "flex-start",
+                "backgroundColor": "#ff742b",
+                "color": "#fff",
+                "fontSize": 16,
+                "height": 20,
+                "textAlign": "left",
+                "whiteSpace": "normal",
+              }
+            }
+          >
+            <th
+              style={
+                Object {
+                  "maxWidth": "20%",
+                }
+              }
+            >
+              Comments
+            </th>
+            <th
+              style={
+                Object {
+                  "maxWidth": "20%",
+                }
+              }
+            >
+              Votes
+            </th>
+            <th
+              style={
+                Object {
+                  "maxWidth": "20%",
+                }
+              }
+            >
+              UpVote
+            </th>
+            <th
+              style={
+                Object {
+                  "maxWidth": "80%",
+                }
+              }
+            >
+              News Details
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              no data!
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div
+      style={
+        Object {
+          "align": "right",
+          "borderBottom": "3px solid #ff742b",
+        }
+      }
+    >
+      <span>
+        Prev
+      </span>
+      <span
+        style={
+          Object {
+            "marginLeft": 5,
+            "marginRight": 5,
+          }
+        }
+      >
+         | 
+      </span>
+      <span>
+        Next
+      </span>
+    </div>
+    <br />
+  </div>
+</div>
+`;
